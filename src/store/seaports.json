@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Port of Singapore",
+    "location": "Singapore",
+    "latitude": 1.2667,
+    "longitude": 103.8000
+  },
+  {
+    "name": "Port of Shanghai",
+    "location": "China",
+    "latitude": 31.2333,
+    "longitude": 121.4667
+  },
+  {
+    "name": "Port of Rotterdam",
+    "location": "Netherland",
+    "latitude": 51.9333,
+    "longitude": 4.4667
+  },
+  {
+    "name": "Port of Los Angeles",
+    "name": "United States of America",
+    "latitude": 33.7500,
+    "longitude": -118.2500
+  },
+  {
+    "name": "Port of Hong Kong",
+    "location": "Hongkong",
+    "latitude": 22.2855,
+    "longitude": 114.1577
+  },
+  {
+    "name": "Port of Busan",
+    "location": "South Korea",
+    "latitude": 35.0951,
+    "longitude": 129.0106
+  },
+  {
+    "name": "Port of Hamburg",
+    "location": "Germany",
+    "latitude": 53.5444,
+    "longitude": 9.9683
+  },
+  {
+    "name": "Port of Dubai",
+    "location": "UAE",
+    "latitude": 25.2532,
+    "longitude": 55.3657
+  },
+  {
+    "name": "Port of Sydney",
+    "location": "Australia",
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  {
+    "name": "Port of Tanjung Priok",
+    "location": "Jakarta",
+    "latitude": -6.1300,
+    "longitude": 106.8683
+  },
+  {
+    "name": "Port of Belawan",
+    "location": "Medan, North Sumatra",
+    "latitude": 3.7814,
+    "longitude": 98.6854
+  },
+  {
+    "name": "Port of Surabaya",
+    "location": "Surabaya, East Java",
+    "latitude": -7.2575,
+    "longitude": 112.7521
+  },
+  {
+    "name": "Port of Makassar",
+    "location": "Makassar, South Sulawesi",
+    "latitude": -5.1333,
+    "longitude": 119.4167
+  },
+  {
+    "name": "Port of Samarinda",
+    "location": "Samarinda, East Kalimantan",
+    "latitude": -0.5028,
+    "longitude": 117.1538
+  },
+  {
+    "name": "Port of Tokyo",
+    "location": "Tokyo, Japan",
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  {
+    "name": "Port of Colombo",
+    "location": "Colombo, Sri Lanka",
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  {
+    "name": "Port of Chittagong",
+    "location": "Chittagong, Bangladesh",
+    "latitude": 22.3475,
+    "longitude": 91.8123
+  },
+  {
+    "name": "Port of Kaohsiung",
+    "location": "Kaohsiung, Taiwan",
+    "latitude": 22.6203,
+    "longitude": 120.3122
+  },
+  {
+    "name": "Port of Antwerp",
+    "location": "Antwerp, Belgium",
+    "latitude": 51.2194,
+    "longitude": 4.4025
+  },
+  {
+    "name": "Port of Marseille",
+    "location": "Marseille, France",
+    "latitude": 43.2965,
+    "longitude": 5.3698
+  },
+  {
+    "name": "Port of Genoa",
+    "location": "Genoa, Italy",
+    "latitude": 44.4056,
+    "longitude": 8.9463
+  },
+  {
+    "name": "Port of Istanbul",
+    "location": "Istanbul, Turkey",
+    "latitude": 41.0082,
+    "longitude": 28.9784
+  },
+  {
+    "name": "Port of Gdansk",
+    "location": "Gdansk, Poland",
+    "latitude": 54.3520,
+    "longitude": 18.6466
+  },
+  {
+    "name": "Port of Barcelona",
+    "location": "Barcelona, Spain",
+    "latitude": 41.3851,
+    "longitude": 2.1734
+  },
+  {
+    "name": "Port of Felixstowe",
+    "location": "Felixstowe, United Kingdom",
+    "latitude": 51.9634,
+    "longitude": 1.3513
+  },
+  {
+    "name": "Port of Odessa",
+    "location": "Odessa, Ukraine",
+    "latitude": 46.4825,
+    "longitude": 30.7233
+  },
+  {
+    "name": "Port of Durban",
+    "location": "Durban, South Africa",
+    "latitude": -29.8587,
+    "longitude": 31.0292
+  },
+  {
+    "name": "Port of Alexandria",
+    "location": "Alexandria, Egypt",
+    "latitude": 31.2156,
+    "longitude": 29.9553
+  },
+  {
+    "name": "Port of Lagos",
+    "location": "Lagos, Nigeria",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "name": "Port of Casablanca",
+    "location": "Casablanca, Morocco",
+    "latitude": 33.5731,
+    "longitude": -7.5898
+  },
+  {
+    "name": "Port of Mombasa",
+    "location": "Mombasa, Kenya",
+    "latitude": -4.0503,
+    "longitude": 39.6634
+  },
+  {
+    "name": "Port of Dar es Salaam",
+    "location": "Dar es Salaam, Tanzania",
+    "latitude": -6.7924,
+    "longitude": 39.2083
+  },
+  {
+    "name": "Port of Algiers",
+    "location": "Algiers, Algeria",
+    "latitude": 36.7372,
+    "longitude": 3.0848
+  },
+  {
+    "name": "Port of Cape Town",
+    "location": "Cape Town, South Africa",
+    "latitude": -33.9189,
+    "longitude": 18.4232
+  },
+  {
+    "name": "Port of Tema",
+    "location": "Tema, Ghana",
+    "latitude": 5.6401,
+    "longitude": 0.0104
+  },
+  {
+    "name": "Port of Dakar",
+    "location": "Dakar, Senegal",
+    "latitude": 14.6928,
+    "longitude": -17.4467
+  },
+  {
+    "name": "Port of Kuwait City",
+    "location": "Kuwait City, Kuwait",
+    "latitude": 29.3759,
+    "longitude": 47.9774
+  },
+  {
+    "name": "Port of Jeddah",
+    "location": "Jeddah, Saudi Arabia",
+    "latitude": 21.4858,
+    "longitude": 39.1925
+  },
+  {
+    "name": "Port of Chabahar",
+    "location": "Chabahar, Iran",
+    "latitude": 25.2934,
+    "longitude": 60.6430
+  },
+  {
+    "name": "Port of Muscat",
+    "location": "Muscat, Oman",
+    "latitude": 23.6100,
+    "longitude": 58.5400
+  },
+  {
+    "name": "Port of Doha",
+    "location": "Doha, Qatar",
+    "latitude": 25.276987,
+    "longitude": 51.520008
+  }
+]
+
+
